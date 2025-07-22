@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #fefefe;
+  color: #252222;
+}
+header{
+  background: rgb(53, 37, 37);
+  color: #fff;
+  padding: 10px 0;
+  
+}
+h1{
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+}
+.logo {
+  float: left;
+  margin-left: 10px;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 20px;
+}
+nav ul li {
+  margin-left: 20px;
+}
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+a{
+  text-decoration: none;
+}
+.hero{
+  background: linear-gradient(to right, hsl(133, 52%, 61%), #075329);
+  color: rgb(211, 211, 211);
+  padding: 80px 20px;
+  text-align: center;
+}
+.hero h1{
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.hero p{
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+.button, .button-outline
+{
+    display: inline-block;
+    padding: 10px  20px;
+    border-radius: 20px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    background-color: #000202;
+    color: #e7e7ee;
+}
+.button{
+    background-color: #1c0f35;
+    color: #e4eef0;
+}
+.button:hover{
+    background: #a7adf8;
+    color: black;
+}
+.button-outline{
+    border: 2px solid #0a1f1a;
+    background-color: #03272e;
+    color: #ffffff;
+}
+.button-outline:hover{
+    background: #c0a7f1;
+    color: #011b1f;
+}
+.feature-section{
+  display: flex;
+  align-items: center;
+  padding: 40px 10%;
+  gap: 40px;
+  background: #ffffff;
+}
+.feature-section.reverse{
+  flex-direction: row-reverse;
+}
+.feature-section img{
+  width: 350px;
+  border-radius: 12px;
+}
+.text h2{
+  margin-bottom: 10px;
+}
+.text p{
+    margin-bottom: 15px;
+}
+.devices{
+  text-align: center;
+  color: white;
+  padding: 60px 20px;
+  background: linear-gradient(to right, #67b3fa, #09331c);;
+}
+.benefits{
+  display: flex;
+  justify-content: space-around;
+  padding: 50px 10%;
+  background: #fff;
+  gap: 30px;
+}
+.benefit{
+  text-align: center;
+  width: 30%;
+}
+.benefit img{
+  margin-bottom: 10px;
+}
+.server-info{
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+  background-image: url("footer.jpg");
+}
+footer{
+  background:linear-gradient(to left, #3d3a42, #42095c);
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
