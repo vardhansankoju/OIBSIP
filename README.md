@@ -1,4 +1,4 @@
-# 💪 VFitness - Fitness Landing Page
+# VFitness - Fitness Landing Page
 
 This is a **modern and responsive Fitness Landing Page** built using **HTML and CSS** as part of the **OIBSIP Web Development & Design Internship**.
 
@@ -6,17 +6,17 @@ VFitness is designed to promote a fitness tracking solution with real-time stats
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🏃 Real-time Steps, Heart Rate & Calorie Burn Highlights  
-- 📱 Responsive Layout using Flexbox  
-- 🎯 Clear Call-to-Action Button  
-- 🎨 Smooth UI with well-chosen color palette  
+-  Real-time Steps, Heart Rate & Calorie Burn Highlights  
+- Responsive Layout using Flexbox  
+- Clear Call-to-Action Button  
+- Smooth UI with well-chosen color palette  
 - 🔗 Structured sections: Hero, Features, and More
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5**
 - **CSS3**
@@ -26,10 +26,9 @@ No JavaScript or frameworks were used — pure HTML & CSS.
 
 ---
 
-## 📸 Demo
+##  Demo
 
-> 🎥 [Watch Project Demo Video Here](#)  
-> 🔗 [Live Preview (Optional if deployed)](#)
+> 🎥 [
 
 ---
 
@@ -42,7 +41,7 @@ VFitness/
 └── README.md
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 - Building real-world UIs using only HTML and CSS  
 - Structuring landing pages with sectioning and alignment  
@@ -51,7 +50,7 @@ VFitness/
 
 ---
 
-## 📝 Internship Info
+## Internship Info
 
 This project was created as part of the **Web Development Internship at Oasis Infobyte (OIBSIP)**.  
 It helped me gain practical frontend experience and polish my web design skills.
