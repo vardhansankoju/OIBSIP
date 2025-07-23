@@ -28,7 +28,7 @@ No JavaScript or frameworks were used — pure HTML & CSS.
 
 ##  Demo
 
-> []
+> [https://www.linkedin.com/posts/vardhan-sankoju-113057323_oibsip-webdevelopment-html-activity-7353853159087222784-OzqM?utm_source=share&utm_medium=member_android&rcm=ACoAAFGy9N8B43KYmJnTTT92TMHk0yYOYc431CM]
 
 ---
 
