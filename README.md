@@ -28,11 +28,11 @@ No JavaScript or frameworks were used — pure HTML & CSS.
 
 ##  Demo
 
-> 🎥 [
+> []
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 VFitness/ 
 ├── index.html 
 ├── style.css
@@ -57,12 +57,12 @@ It helped me gain practical frontend experience and polish my web design skills.
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 Feel free to reach out or give feedback:
 
-- 💼 LinkedIn: [Your LinkedIn URL]  
-- 📧 Email: [Your Email ID]
+- LinkedIn:[https://www.linkedin.com/in/vardhan-sankoju-113057323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- 📧 Email: [vardhansankoju@gmail.com]
 
 ---
 
